@@ -13,6 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
+    System.out.println(sayHelloToSomeone(Haris));
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
